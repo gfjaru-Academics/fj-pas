@@ -6,7 +6,7 @@ fj-pas, detect % ratio face to original image
 
 tryne.py
 
-[](https://github.com/gfjaru/fj-pas/raw/master/icon.png)
+[](https://github.com/gfjaru/fj-pas/raw/master/rundown.png)
 
 app.py -> gerenate output (in array)
 
